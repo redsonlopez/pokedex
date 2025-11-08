@@ -1,0 +1,21 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Pokédex feita em HTML, CSS e JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "http-server . -o"
+  },
+  "keywords": [
+    "pokedex",
+    "pokemon",
+    "frontend"
+  ],
+  "author": "Hedson Lopes",
+  "license": "ISC",
+  "packageManager": "pnpm@10.20.0",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
