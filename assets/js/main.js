@@ -7,6 +7,3 @@ fetch(url)
   .then((jsonBody) => console.log(jsonBody))
   .catch((error) => console.error(error))
 
-
-Teste:
-  hdsafvg
